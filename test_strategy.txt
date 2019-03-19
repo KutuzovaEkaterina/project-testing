@@ -1,0 +1,33 @@
+Test subject:
+Test the service to create tasks
+
+Feature to be tested: The service to create tasks
+
+Requirements: 
+Business requirements: The user wants to get service for create tasks.
+Functional requirements:
+	The system should be able to create a user;
+	The user should be able to create a task;
+	The user should be able to edit the task;
+	The user should be able to view their tasks, as all, and one in particular.
+FE requirements:
+	Web should contain 2 pages for:
+	- With form for user creation, only name field, button for get user list;
+	- With form for task creation, buttons for retrieve all tasks, to see details of one task, to remove task and ability to update task.
+Jira tasks:  http://...
+
+Target release: 7 days
+
+Resources: Junior QA engineer - Kate Kutuzova
+
+Environments: Google Chrome, Internet Explorer
+
+Test Approach:
+	Levels of testing: unit, integration and system  testing.
+	Types of testing: functional and non-functional.
+
+Testing Tools: Xmind, TestRail, Postman, Jira, GitHub
+
+Risk Analysis & Dependency: 1 days
+
+Exit criteria: The task creation service works.
