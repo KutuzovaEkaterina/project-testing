@@ -1,0 +1,24 @@
+Test Report
+The service to create tasks
+
+Testing scope
+Tests were conducted for functional and general requirements using Postman.
+Tests to verify functional requirements:
+Total - 8 tests (4 for users and 4 for task);
+Successful - 8.
+Tests to verify general requirements:
+Total - 23 tests;
+Successful - 14.
+Opened 9 bugs.
+
+Versions
+https://damp-eyrie-62274.herokuapp.com/users
+https://damp-eyrie-62274.herokuapp.com/tasks
+
+Environment
+Google Crome
+
+Link to executions
+Link to test cases and bugs: https://sqamate.com/d?q=10&s=14908
+
+Known issues
