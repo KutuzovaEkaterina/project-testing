@@ -68,10 +68,10 @@ Tests to verify functional requirements:
 * Successful - 8.
 
 Tests to verify general requirements:
-* Total - 23 tests;
-* Successful - 14.
+* Total - 25 tests;
+* Successful - 13.
 
-Opened 9 bugs.
+Opened 12 bugs.
 
 ### Versions
 * https://damp-eyrie-62274.herokuapp.com/users
