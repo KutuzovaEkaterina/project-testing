@@ -81,6 +81,6 @@ Opened 12 bugs.
 Google Crome
 
 ### Link to executions
-Link to test cases and bugs: https://sqamate.com/d?q=10&s=14908
+Link to test report: https://sqamate.com/r?plan_id=191
 
 ### Known issues
